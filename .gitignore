@@ -17,6 +17,26 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#MPLAB others
+*.p1
+*.d
+*.pre
+*.cmf
+*.elf
+*.hxl
+*.debug
+*.mum
+*.rlf
+*.sdb
+*.sym
+*.bash
+*.properties
+*.obj
+*.xml
+*.map
+*.lst
+*.mk
+
 # =========================
 # Operating System Files
 # =========================
